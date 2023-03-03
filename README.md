@@ -23,14 +23,3 @@ HTML: This will be used for creating the website structure and content.
 CSS: This will be used for styling the website, including fonts, colors, and layout.
 
 JavaScript: This will be used for adding interactivity to the website, such as animations or form validation.
-
-Deployment
-The website can be hosted on any web hosting service, such as GitHub Pages or Netlify. You can also purchase a domain name to make the website more professional.
-
-Getting started
-To get started with this project, you will need to have a basic understanding of HTML, CSS, and JavaScript. You can use any code editor, such as Visual Studio Code or Sublime Text, to create the website files.
-
-You can also use templates or pre-built themes to speed up the development process. However, it's important to customize the website to showcase your unique skills and personality.
-
-Conclusion
-Creating a personal CV website is a great way to stand out from the crowd and showcase your skills and experience to potential employers or clients. With the right design and content, you can create a professional online portfolio that will help you achieve your career goals.

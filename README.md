@@ -1,5 +1,5 @@
 
-#Personal CV Website
+Personal CV Website
 This is a minor project that aims to create a personal CV website that showcases your skills, experience, and achievements to potential employers or clients. This website will serve as an online portfolio that you can use to market yourself and highlight your strengths.
 
 Features
